@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  <img width="100%" src="/banner.png"  />
-</div>
-
-###
-
-<div align="center">
   <a 
     target="_blank"
     rel="noopener"
