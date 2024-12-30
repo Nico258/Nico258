@@ -28,7 +28,7 @@
 ###
 
 <p align="left">
-  - 💼 I’m working as Software Developer, I've worked at <a href="https://giitic.com" target="_blank" rel="noopener">Giitic</a> for +2 years as a Java Developer.
+  - 💼 I’m working as Software Developer at <a href="https://mercadolibre.com" target="_blank" rel="noopener">Mercado Libre</a> , I've worked for +2 years as a Java Developer.
   <br>
   - 📚 I'm currently studying IT at UNIMINUTO, I'm also learning other Backend languages as Python and Go, but I'm exploring some Frontend tools as Astro.
   <br>
