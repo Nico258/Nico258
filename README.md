@@ -30,7 +30,7 @@
 <p align="left">
   - 💼 I’m working as Software Developer at <a href="https://mercadolibre.com" target="_blank" rel="noopener">Mercado Libre</a> , I've worked for +2 years as a Java Developer.
   <br>
-  - 📚 I'm currently studying IT at UNIMINUTO, I'm also learning other Backend languages as Python and Go, but I'm exploring some Frontend tools as Astro.
+  - 📚 I'm currently studying Software Engineering at UNIMINUTO, I'm also learning other Backend languages as Python and Go, but I'm open exploring Frontend tools.
   <br>
   - ⚡ In my free time I like to create stuff with the tools I'm learning, that way, the knowledge stays in my head. When I'm not creating something, I love playing video games, alone or with friends.
   <br>
@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="40" alt="intellij idea logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"  />
   <img width="12" />
